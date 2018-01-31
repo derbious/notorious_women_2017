@@ -1,4 +1,3 @@
-~~~
 # Notorious Women of Japan
 * Emmy Anthony
 * Steven Anthony
@@ -26,6 +25,7 @@ A person who is admired or idealized for courage, outstanding achievements, or o
 > a reputation as Japan's most popular maiko and finally became a geiko on her 21st birthday.
 
 ---
+
 ![Kyoto](images/kyoto.jpg)
 > Gion
 > Knowledgeable insiders estimate that there are about 100 geiko and 100 maiko in Kyoto. Other cities, like Tokyo,
